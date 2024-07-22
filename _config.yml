@@ -69,3 +69,7 @@ kramdown:
   hard_wrap         : false
   footnote_nr       : 1
   show_warnings     : false
+
+theme: jekyll-theme-minimal
+title: vishnu hari
+description: co-founder @ https://ego.live
